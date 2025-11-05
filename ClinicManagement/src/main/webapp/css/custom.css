@@ -1,0 +1,3 @@
+body.bg-gradient { background: linear-gradient(120deg, #f8fafc 0%, #e9f7ef 100%); }
+.card { border-radius: 12px; }
+.btn-success { background: linear-gradient(90deg,#28a745,#2ecc71); border: none; }
